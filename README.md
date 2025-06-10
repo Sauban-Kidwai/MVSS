@@ -17,15 +17,15 @@ To run the program, locate the directory where the assignment is located. This i
 
 2. Then type in the command `make` and press enter. The program will now compile
 
-![Compile 1](img/compile2.png)
+![Compile 1](MVSS_Github_Copy/img/compile2.png)
 
 3. Then to run the program, type in the command `./mssv` and press enter. The program will display the usage of the program
 
-![Compile 2](img/compile3.png)
+![Compile 2](MVSS_Github_Copy/img/compile3.png)
 
 4. Then, type in the correct command. In this case `./mssv sol1.txt 1`. Please note the file name ranges from `sol1.txt` to `sol5.txt` and delay ranges from 1 to 10.
 
-![Compile 3](img/compile4.png)
+![Compile 3](MVSS_Github_Copy/img/compile4.png)
 
 5. Thats it! The program has been executed successfully.
 
